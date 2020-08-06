@@ -15,3 +15,5 @@ Functions as follows:
     Parses the file accordingly and creates an index for each file and email in ES
     
     Once all the indexes are completed, Kibana displays the analytics on a dashboard
+    
+    NOTE: I am well away the parsing algorithm is garbage, it's just a placeholder. I'll fix it someday in the future
